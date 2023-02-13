@@ -1,0 +1,11 @@
+circle {
+    fill: limegreen;
+}
+
+.circle:hover {
+    fill: orange !important;
+}
+
+h2 {
+    text-align: center;
+}
